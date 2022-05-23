@@ -1,12 +1,14 @@
 <h2>Introduction</h2>
 <p></p>
 <h2>Softwares</h2>
-<h3>OpenEye SZMAP/Gameplan</h3>
-<h3>FLARE GIST and 3D-RISM</h3>
-<h3>Schrodinger WaterMap</h3>
-<h3>MolDiscovery WaterFlap</h3>
-<h3>WaterRank</h3>
-<h3>WatSite</h3>
+<h3>1. OpenEye SZMAP/Gameplan</h3>
+<h3>2. FLARE GIST and 3D-RISM</h3>
+<h3>3. Schrodinger WaterMap</h3>
+<h3>4. MolDiscovery WaterFlap</h3>
+<h3>5. WatSite</h3>
+<h3>6. Water Rank</h3>
+<h2>Case study</h2>
+
 <h2>Reference</h2>
 <ol>
   <li>Yang, Z.; Xiaoyun, L. U. The Role of Water Molecules in Drug Design. Prog. Pharm. Sci. 2022, 46 (1), 47–59. https://pps.cpu.edu.cn/article/id/ba95392b-7a5e-44d4-a2b5-a3084711d6f5</li>
