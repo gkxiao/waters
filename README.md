@@ -7,6 +7,8 @@
 <h3>4. MolDiscovery WaterFlap</h3>
 <h3>5. WatSite</h3>
 <h3>6. Water Rank</h3>
+<h3>7. SSTMAP</h3>
+<h3>8. Gist-Post-Processing</h3>
 <h2>Case study</h2>
 
 <h2>Reference</h2>
