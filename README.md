@@ -29,7 +29,7 @@
   <li>Schaller, D.; Pach, S.; Wolber, G. PyRod: Tracing Water Molecules in Molecular Dynamics Simulations. J. Chem. Inf. Model. 2019, No. May, acs.jcim.9b00281. https://doi.org/10.1021/acs.jcim.9b00281.</li>
   <li>Nittinger, E.; Gibbons, P.; Eigenbrot, C.; Davies, D. R.; Maurer, B.; Yu, C. L.; Kiefer, J. R.; Kuglstatter, A.; Murray, J.; Ortwine, D. F.; et al. Water Molecules in Protein–Ligand Interfaces. Evaluation of Software Tools and SAR Comparison. J. Comput. Aided. Mol. Des. 2019, 33 (3), 307–330. https://doi.org/10.1007/s10822-019-00187-y.</li>
   <li>Nguyen, C.; Yamazaki, T.; Kovalenko, A.; Case, D. A.; Gilson, M. K.; Kurtzman, T.; Luchko, T. A Molecular Reconstruction Approach to Site-Based 3D-RISM and Comparison to GIST Hydration Thermodynamic Maps in an Enzyme Active Site. PLoS One 2019, 14 (7), e0219473. https://doi.org/10.1371/journal.pone.0219473.</li>
-  
+  <li>Lu, J.; Hou, X.; Wang, C.; Zhang, Y. Incorporating Explicit Water Molecules and Ligand Conformation Stability in Machine-Learning Scoring Functions. J. Chem. Inf. Model. 2019, 59 (11), 4540–4549. https://doi.org/10.1021/acs.jcim.9b00645.</li>
   
   <li>Bucher, D.; Stouten, P.; Triballeau, N. Shedding Light on Important Waters for Drug Design: Simulations versus Grid-Based Methods. J. Chem. Inf. Model. 2018, 58 (3), 692–699. https://doi.org/10.1021/acs.jcim.7b00642.</li>
   <li>Nittinger, E.; Flachsenberg, F.; Bietz, S.; Lange, G.; Klein, R.; Rarey, M. Placement of Water Molecules in Protein Structures: From Large-Scale Evaluations to Single-Case Examples. J. Chem. Inf. Model. 2018, 58 (8), 1625–1637. https://doi.org/10.1021/acs.jcim.8b00271.</li>
@@ -53,7 +53,9 @@
   <li>Ramsey, S.; Nguyen, C.; Salomon-Ferrer, R.; Walker, R. C.; Gilson, M. K.; Kurtzman, T. Solvation Thermodynamic Mapping of Molecular Surfaces in AmberTools: GIST. J. Comput. Chem. 2016, 37 (21), 2029–2037. https://doi.org/10.1002/jcc.24417.</li>
   <li>Calabrò, G.; Woods, C. J.; Powlesland, F.; Mey, A. S. J. S.; Mulholland, A. J.; Michel, J. Elucidation of Nonadditive Effects in Protein–Ligand Binding Energies: Thrombin as a Case Study. J. Phys. Chem. B 2016, 120 (24), 5340–5350. https://doi.org/10.1021/acs.jpcb.6b03296.</li>
   <li>Zoidis, G.; Giannakopoulou, E.; Stevaert, A.; Frakolaki, E.; Myrianthopoulos, V.; Fytas, G.; Mavromara, P.; Mikros, E.; Bartenschlager, R.; Vassilaki, N.; et al. Novel Indole–Flutimide Heterocycles with Activity against Influenza PA Endonuclease and Hepatitis C Virus. Medchemcomm 2016, 7 (3), 447–456. https://doi.org/10.1039/C5MD00439J.</li>
-
+  <li>Murphy, R. B.; Repasky, M. P.; Greenwood, J. R.; Tubert-Brohman, I.; Jerome, S.; Annabhimoju, R.; Boyles, N. A.; Schmitz, C. D.; Abel, R.; Farid, R.; et al. WScore: A Flexible and Accurate Treatment of Explicit Water Molecules in Ligand-Receptor Docking. J. Med. Chem. 2016, 59 (9), 4364–4384. https://doi.org/10.1021/acs.jmedchem.6b00131.</li>
+  <li>Uehara, S.; Tanaka, S. AutoDock-GIST: Incorporating Thermodynamics of Active-Site Water into Scoring Function for Accurate Protein-Ligand Docking. Molecules 2016, 21 (11), 1604. https://doi.org/10.3390/molecules21111604.</li>
+  
   <li>Horbert, R.; Pinchuk, B.; Johannes, E.; Schlosser, J.; Schmidt, D.; Cappel, D.; Totzke, F.; Schächtele, C.; Peifer, C. Optimization of Potent Dfg-in Inhibitors of Platelet Derived Growth Factor Receptorβ (PDGF-Rβ) Guided by Water Thermodynamics. J. Med. Chem. 2015, 58 (1), 170–182. https://doi.org/10.1021/jm500373x.</li>
   <li>Bayden, A. S.; Moustakas, D. T.; Joseph-McCarthy, D.; Lamb, M. L. Evaluating Free Energies of Binding and Conservation of Crystallographic Waters Using SZMAP. J. Chem. Inf. Model. 2015, 55 (8), 1552–1565. https://doi.org/10.1021/ci500746d.</li>
   <li>Nguyen, C. N.; Cruz, A.; Gilson, M. K.; Kurtzman, T. Thermodynamics of Water in an Enzyme Active Site: Grid-Based Hydration Analysis of Coagulation Factor Xa. chemrxiv 2014, 10 (7), 2769–2780. https://doi.org/10.1021/ct401110x.</li>
