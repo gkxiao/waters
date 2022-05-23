@@ -24,6 +24,7 @@
   <li>Bortolato, A.; Tehan, B. G.; Bodnarchuk, M. S.; Essex, J. W.; Mason, J. S. Water Network Perturbation in Ligand Binding: Adenosine A 2A Antagonists as a Case Study. J. Chem. Inf. Model. 2013, 53 (7), 1700–1713. https://doi.org/10.1021/ci4001458.</li>
   <li>Kohlmann, A.; Zhu, X.; Dalgarno, D. Application of MM-GB/SA and WaterMap to SRC Kinase Inhibitor Potency Prediction. ACS Med. Chem. Lett. 2012, 3 (2), 94–99. https://doi.org/10.1021/ml200222u.</li>
   <li>Beuming, T.; Che, Y.; Abel, R.; Kim, B.; Shanmugasundaram, V.; Sherman, W. Thermodynamic Analysis of Water Molecules at the Surface of Proteins and Applications to Binding Site Prediction and Characterization. Proteins Struct. Funct. Bioinforma. 2012, 80 (3), 871–883. https://doi.org/10.1002/prot.23244.</li>
+  <li>Trujillo, J. I.; Kiefer, J. R.; Huang, W.; Day, J. E.; Moon, J.; Jerome, G. M.; Bono, C. P.; Kornmeier, C. M.; Williams, M. L.; Kuhn, C.; et al. Investigation of the Binding Pocket of Human Hematopoietic Prostaglandin (PG) D2 Synthase (HH-PGDS): A Tale of Two Waters. Bioorg. Med. Chem. Lett. 2012, 22 (11), 3795–3799. https://doi.org/10.1016/j.bmcl.2012.04.004.</li>
   <li>Robinson, D. D.; Sherman, W.; Farid, R. Understanding Kinase Selectivity Through Energetic Analysis of Binding Site Waters. ChemMedChem 2010, 5 (4), 618–627. https://doi.org/10.1002/cmdc.200900501.</li>
   
 </ol>
