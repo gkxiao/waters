@@ -17,8 +17,17 @@
   <li>Nittinger, E.; Gibbons, P.; Eigenbrot, C.; Davies, D. R.; Maurer, B.; Yu, C. L.; Kiefer, J. R.; Kuglstatter, A.; Murray, J.; Ortwine, D. F.; et al. Water Molecules in Protein–Ligand Interfaces. Evaluation of Software Tools and SAR Comparison. J. Comput. Aided. Mol. Des. 2019, 33 (3), 307–330. https://doi.org/10.1007/s10822-019-00187-y.</li>
   <li>Bucher, D.; Stouten, P.; Triballeau, N. Shedding Light on Important Waters for Drug Design: Simulations versus Grid-Based Methods. J. Chem. Inf. Model. 2018, 58 (3), 692–699. https://doi.org/10.1021/acs.jcim.7b00642.</li>
   <li>Nittinger, E.; Flachsenberg, F.; Bietz, S.; Lange, G.; Klein, R.; Rarey, M. Placement of Water Molecules in Protein Structures: From Large-Scale Evaluations to Single-Case Examples. J. Chem. Inf. Model. 2018, 58 (8), 1625–1637. https://doi.org/10.1021/acs.jcim.8b00271.</li>
+  <li>Hamaguchi, H.; Amano, Y.; Moritomo, A.; Shirakami, S.; Nakajima, Y.; Nakai, K.; Nomura, N.; Ito, M.; Higashi, Y.; Inoue, T. Discovery and Structural Characterization of Peficitinib (ASP015K) as a Novel and Potent JAK Inhibitor. Bioorg. Med. Chem. 2018, 26 (18), 4971–4983. https://doi.org/10.1016/j.bmc.2018.08.005.</li>
+  
+  <li>Wang, Y.; Du, Y.; Huang, N. A Survey of the Role of Nitrile Groups in Protein–Ligand Interactions. Future Med. Chem. 2018, 10 (23), 2713–2728. https://doi.org/10.4155/fmc-2018-0252.</li>
+  
+  <li>Masters, M. R.; Mahmoud, A. H.; Yang, Y.; Lill, M. A. Efficient and Accurate Hydration Site Profiling for Enclosed Binding Sites. J. Chem. Inf. Model. 2018, 58 (11), 2183–2188. https://doi.org/10.1021/acs.jcim.8b00544.</li>
+  
   <li>Cappel, D.; Sherman, W.; Beuming, T. Calculating Water Thermodynamics in the Binding Site of Proteins – Applications of WaterMap to Drug Discovery. Curr. Top. Med. Chem. 2017, 17 (23), 2586–2598. https://doi.org/10.2174/1568026617666170414141452.</li>
   <li>Spyrakis, F.; Ahmed, M. H.; Bayden, A. S.; Cozzini, P.; Mozzarelli, A.; Kellogg, G. E. The Roles of Water in the Protein Matrix: A Largely Untapped Resource for Drug Discovery. J. Med. Chem. 2017, 60 (16), 6781–6828. https://doi.org/10.1021/acs.jmedchem.7b00057.</li>
+  
+  <li>Schauperl, M.; Czodrowski, P.; Fuchs, J. E.; Huber, R. G.; Waldner, B. J.; Podewitz, M.; Kramer, C.; Liedl, K. R. Binding Pose Flip Explained via Enthalpic and Entropic Contributions. J. Chem. Inf. Model. 2017, 57 (2), 345–354. https://doi.org/10.1021/acs.jcim.6b00483.</li>
+  
   <li>Czodrowski, P.; Mallinger, A.; Wienke, D.; Esdar, C.; Pöschke, O.; Busch, M.; Rohdich, F.; Eccles, S. A.; Ortiz-Ruiz, M.-J.; Schneider, R.; et al. Structure-Based Optimization of Potent, Selective, and Orally Bioavailable CDK8 Inhibitors Discovered by High-Throughput Screening. J. Med. Chem. 2016, 59 (20), 9337–9349. https://doi.org/10.1021/acs.jmedchem.6b00597.</li>
   <li>Bodnarchuk, M. S. Water, Water, Everywhere... It’s Time to Stop and Think. Drug Discov. Today 2016, 21 (7), 1139–1146. https://doi.org/10.1016/j.drudis.2016.05.009.</li>
   
@@ -33,6 +42,7 @@
   <li>Beuming, T.; Che, Y.; Abel, R.; Kim, B.; Shanmugasundaram, V.; Sherman, W. Thermodynamic Analysis of Water Molecules at the Surface of Proteins and Applications to Binding Site Prediction and Characterization. Proteins Struct. Funct. Bioinforma. 2012, 80 (3), 871–883. https://doi.org/10.1002/prot.23244.</li>
   <li>Trujillo, J. I.; Kiefer, J. R.; Huang, W.; Day, J. E.; Moon, J.; Jerome, G. M.; Bono, C. P.; Kornmeier, C. M.; Williams, M. L.; Kuhn, C.; et al. Investigation of the Binding Pocket of Human Hematopoietic Prostaglandin (PG) D2 Synthase (HH-PGDS): A Tale of Two Waters. Bioorg. Med. Chem. Lett. 2012, 22 (11), 3795–3799. https://doi.org/10.1016/j.bmcl.2012.04.004.</li>
   <li>Kung, P.-P.; Sinnema, P.-J.; Richardson, P.; Hickey, M. J.; Gajiwala, K. S.; Wang, F.; Huang, B.; McClellan, G.; Wang, J.; Maegley, K.; et al. Design Strategies to Target Crystallographic Waters Applied to the Hsp90 Molecular Chaperone. Bioorg. Med. Chem. Lett. 2011, 21 (12), 3557–3562. https://doi.org/10.1016/j.bmcl.2011.04.130.</li>
+  <li>Nguyen, C.; Gilson, M. K.; Young, T. Structure and Thermodynamics of Molecular Hydration via Grid Inhomogeneous Solvation Theory. ChemRxiv 2011.</li>
   <li>Robinson, D. D.; Sherman, W.; Farid, R. Understanding Kinase Selectivity Through Energetic Analysis of Binding Site Waters. ChemMedChem 2010, 5 (4), 618–627. https://doi.org/10.1002/cmdc.200900501.</li>
   <li>Michel, J.; Tirado-Rives, J.; Jorgensen, W. L. Energetics of Displacing Water Molecules from Protein Binding Sites: Consequences for Ligand Optimization. J. Am. Chem. Soc. 2009, 131 (42), 15403–15411. https://doi.org/10.1021/ja906058w.</li>
   <li>Chen, J. M.; Xu, S. L.; Wawrzak, Z.; Basarab, G. S.; Jordan, D. B. Structure-Based Design of Potent Inhibitors of Scytalone Dehydratase: Displacement of a Water Molecule from the Active Site. Biochemistry 1998, 37 (51), 17735–17744. https://doi.org/10.1021/bi981848r.</li>
