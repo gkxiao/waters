@@ -1,6 +1,6 @@
 <h2>Introduction</h2>
 <p></p>
-<h2>Methods and Software</h2>
+<h2>Softwares</h2>
 <h3>OpenEye SZMAP/Gameplan</h3>
 <h3>FLARE GIST and 3D-RISM</h3>
 <h3>Schrodinger WaterMap</h3>
