@@ -15,6 +15,8 @@
   <li>Yang, Z.; Xiaoyun, L. U. The Role of Water Molecules in Drug Design. Prog. Pharm. Sci. 2022, 46 (1), 47–59. https://pps.cpu.edu.cn/article/id/ba95392b-7a5e-44d4-a2b5-a3084711d6f5</li>
   
   <li>Targowska-Duda, K. M.; Maj, M.; Drączkowski, P.; Budzyńska, B.; Boguszewska-Czubara, A.; Wróbel, T. M.; Laitinen, T.; Kaczmar, P.; Poso, A.; Kaczor, A. A. WaterMap Guided Structure‐based Virtual Screening for Acetylcholinesterase Inhibitors. ChemMedChem 2022, n/a (n/a). https://doi.org/10.1002/cmdc.202100721.</li>
+
+  <li>Zsidó, B. Z.; Hetényi, C. The Role of Water in Ligand Binding. Curr. Opin. Struct. Biol. 2021, 67 (Figure 1), 1–8. https://doi.org/10.1016/j.sbi.2020.08.002.</li>
   
   <li>Lloyd, M. G.; Huckvale, R.; Cheung, K. J.; Rodrigues, M. J.; Collie, G. W.; Pierrat, O. A.; Gatti Iou, M.; Carter, M.; Davis, O. A.; McAndrew, P. C.; et al. Into Deep Water: Optimizing BCL6 Inhibitors by Growing into a Solvated Pocket. J. Med. Chem. 2021, 64 (23), 17079–17097. https://doi.org/10.1021/acs.jmedchem.1c00946.</li>
   
