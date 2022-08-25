@@ -12,6 +12,8 @@
 
 <h2>4. Reference</h2>
 <ol>
+  <li>Yoshida, S.; Uehara, S.; Kondo, N.; Takahashi, Y.; Yamamoto, S.; Kameda, A.; Kawagoe, S.; Inoue, N.; Yamada, M.; Yoshimura, N.; et al. Peptide-to-Small Molecule: A Pharmacophore-Guided Small Molecule Lead Generation Strategy from High-Affinity Macrocyclic Peptides. 2022. https://doi.org/10.1021/acs.jmedchem.2c00919.</li>
+   
   <li>Yang, Z.; Xiaoyun, L. U. The Role of Water Molecules in Drug Design. Prog. Pharm. Sci. 2022, 46 (1), 47–59. https://pps.cpu.edu.cn/article/id/ba95392b-7a5e-44d4-a2b5-a3084711d6f5</li>
   
   <li>Targowska-Duda, K. M.; Maj, M.; Drączkowski, P.; Budzyńska, B.; Boguszewska-Czubara, A.; Wróbel, T. M.; Laitinen, T.; Kaczmar, P.; Poso, A.; Kaczor, A. A. WaterMap Guided Structure‐based Virtual Screening for Acetylcholinesterase Inhibitors. ChemMedChem 2022, n/a (n/a). https://doi.org/10.1002/cmdc.202100721.</li>
