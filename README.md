@@ -1,16 +1,8 @@
-<h2>1. Introduction</h2>
+<h2>Introduction</h2>
 <p></p>
-<h2>2. Softwares</h2>
-<h3>2.1 OpenEye SZMAP/Gameplan</h3>
-<h3>2.2 FLARE GIST and 3D-RISM</h3>
-<h3>2.3 Schrodinger WaterMap</h3>
-<h3>2.4 MolDiscovery WaterFlap</h3>
-<h3>2.5 WatSite</h3>
-<h3>2.6 SSTMAP</h3>
-<h3>2.7 Gist-Post-Processing</h3>
-<h2>3. Case study</h2>
-
-<h2>4. Reference</h2>
+<h2>Case study</h2>
+<p></p>
+<h2>Reference</h2>
 <ol>
   <li>Yoshida, S.; Uehara, S.; Kondo, N.; Takahashi, Y.; Yamamoto, S.; Kameda, A.; Kawagoe, S.; Inoue, N.; Yamada, M.; Yoshimura, N.; et al. Peptide-to-Small Molecule: A Pharmacophore-Guided Small Molecule Lead Generation Strategy from High-Affinity Macrocyclic Peptides. 2022. https://doi.org/10.1021/acs.jmedchem.2c00919.</li>
    
