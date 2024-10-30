@@ -3,10 +3,10 @@
 <h2>Case study</h2>
 <p>Gist-Based Hydration Site Analysis： <a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html">http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html</a></p>
 <ul>
-    <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#btk"></a>BTK inhibitor: water replacement</a></li>
-    <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#pde10a"></a>PDE10A inhibitor: as a solvation scoring function</a></li>
-    <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#ph4"></a>Identify the key pharmacohore feature</a></li>
-    <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#xbond"></a>Halogen bond interaction design</a></li>
+    <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#btk">BTK inhibitor: water replacement</a></li>
+    <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#pde10a">PDE10A inhibitor: as a solvation scoring function</a></li>
+    <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#ph4">Identify the key pharmacohore feature</a></li>
+    <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#xbond">Halogen bond interaction design</a></li>
 </ul>
 <h2>Reference</h2>
 <ol>
