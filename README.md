@@ -1,5 +1,5 @@
-<h2>Introduction</h2>
 <img src="http://blog.molcalx.com.cn/wp-content/uploads/2024/10/gist-diagram.png"></img>
+<h2>Introduction</h2>
 <ul>
     <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#gist" target='_blank'>Introduction to Flare GIST?</a></li>
     <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#hsa" target='_blank'>Introduction to GIST-based hydrate site anasysis</a></li>
