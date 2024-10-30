@@ -77,7 +77,7 @@ for coord, value in zip(filtered_coords, filtered_values):
 
 # Print information about the picked atom and the input coordinate
 print(f'Atom: {picked_atom} {picked_atom.index},{picked_atom.residue}')
-print(f'The input coordinate: {picked_coord}')
+print(f'The input coordinate: {picked_coord[0]:.3f},{picked_coord[1]:.3f},{picked_coord[2]:.3f}')
 print(f'Radius: {radius} A')
 print(f"Total unique voxels: {len(results)}")
 print(f'Method: truncated the value greater than 3.0 kcal/mol*A^3')
@@ -87,5 +87,14 @@ sum_values = sum(value for _, value, _ in results)*0.125
 sum_truncated_values = sum(truncated_value for _, _, truncated_value in results)*0.125
 # set the atom rf as dG
 picked_atom.tf = sum_truncated_values
+
+# access atom style
+atom_style = picked_atom.style
+
+# set the annotation to display the tf value
+atom_style.annotation = f"dG = {picked_atom.tf:.3f}"
+atom_style.annotation_label_visible = True
+
+# print results
 print(f"dG : {sum_values:.3f} kcal/mol")
 print(f"dG_truncated: {sum_truncated_values:.3f} kcal/mol")
