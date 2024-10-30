@@ -92,6 +92,7 @@ picked_atom.tf = sum_truncated_values
 atom_style = picked_atom.style
 
 # set the annotation to display the tf value
+# By cresset robotchat, great job!
 atom_style.annotation = f"dG = {picked_atom.tf:.3f}"
 atom_style.annotation_label_visible = True
 
