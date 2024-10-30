@@ -1,3 +1,9 @@
+# coding: utf-8
+# By Guangxiao Xiao
+# 2024-07-23
+# Copyright (C) 2024 Guangzhou Molcalx Ltd.
+# Released under CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).
+# Originally downloaded from https://www.molcalx.com.cn
 # Welcome to Flare Python Interpreter.
 # Documentation can be found at Python > Documentation.
 # This default python script can be edited at:
@@ -14,8 +20,9 @@ prot = p.proteins[2]
 # Get the associated grid, which is a GIST deltaG
 grid = prot.surfaces[0].grid()
 
-# Don't modify the following code
-
+#
+# Don't modify the codes starting from here !
+#
 # Get the picked atom
 picked_atom = flare.main_window().picked_atoms[0]
 picked_coord = picked_atom.pos
