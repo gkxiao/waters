@@ -1,4 +1,4 @@
-<img src="http://blog.molcalx.com.cn/wp-content/uploads/2024/10/gist-diagram.png"></img>
+<img src="http://blog.molcalx.com.cn/wp-content/uploads/2024/10/gist-diagram.png">
 <h2>Introduction</h2>
 <ul>
     <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#gist" target='_blank'>Introduction to Flare GIST?</a></li>
@@ -14,6 +14,8 @@
 <h2>How to use the python script</h2>
 <p>1. load the script into flare python gui: Flare | Python | Python Interpretor |Load ..</p>
 <p>2. pick a atom, single click button Run</p>
+<img src="https://github.com/gkxiao/waters/blob/main/demo.png">
+<p style="text-align:center;">Figure 1. Five steps to use the script</p>
 <h2>Reference</h2>
 <ol>
   <li>Yoshida, S.; Uehara, S.; Kondo, N.; Takahashi, Y.; Yamamoto, S.; Kameda, A.; Kawagoe, S.; Inoue, N.; Yamada, M.; Yoshimura, N.; et al. Peptide-to-Small Molecule: A Pharmacophore-Guided Small Molecule Lead Generation Strategy from High-Affinity Macrocyclic Peptides. 2022. https://doi.org/10.1021/acs.jmedchem.2c00919.</li>
