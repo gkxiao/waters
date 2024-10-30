@@ -5,7 +5,6 @@
     <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#hsa" target='_blank'>Introduction to GIST-based hydrate site anasysis</a></li>
 </ul>
 <h2>Case study</h2>
-<p>Gist-Based Hydration Site Analysis： <a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html" target='_blank'>http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html</a></p>
 <ul>
     <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#btk" target='_blank'>BTK inhibitor: water replacement</a></li>
     <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#pde10a" target='_blank'>PDE10A inhibitor: as a solvation scoring function</a></li>
