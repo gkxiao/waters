@@ -1,5 +1,9 @@
 <h2>Introduction</h2>
 <p></p>
+<ul>
+    <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#gist" target='_blank'>How does Flare GIST work?</a></li>
+    <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#hsa" target='_blank'>How can you perform a hydrate site anasysis</a></li>
+</ul>
 <h2>Case study</h2>
 <p>Gist-Based Hydration Site Analysis： <a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html" target='_blank'>http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html</a></p>
 <ul>
