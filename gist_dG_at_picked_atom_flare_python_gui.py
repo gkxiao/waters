@@ -14,15 +14,16 @@ import numpy as np
 # Access the current Flare project
 p = flare.main_window().project
 
-# Get the protein of interest from the protein surface list
+# Get the protein from the protein list
 # The index starts from 0
 prot = p.proteins[2]
-# Get the associated grid, which is a GIST deltaG
+# Get the deltaG grid from protein surface list 
+# The index is starting from 0
 grid = prot.surfaces[0].grid()
 
-#
-# Don't modify the codes starting from here !
-#
+###############################################
+# Don't modify the codes starting from here ! #
+###############################################
 # Get the picked atom
 picked_atom = flare.main_window().picked_atoms[0]
 picked_coord = picked_atom.pos
