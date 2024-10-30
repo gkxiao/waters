@@ -1,9 +1,9 @@
 # coding: utf-8
-# By Guangxiao Xiao
+# By Gaokeng Xiao
 # 2024-07-23
 # Copyright (C) 2024 Guangzhou Molcalx Ltd.
 # Released under CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).
-# Originally downloaded from https://www.molcalx.com.cn
+# Originally downloaded from https://github.com/gkxiao/waters
 # Welcome to Flare Python Interpreter.
 # Documentation can be found at Python > Documentation.
 # This default python script can be edited at:
