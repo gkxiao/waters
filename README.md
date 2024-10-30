@@ -12,8 +12,8 @@
     <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#xbond" target='_blank'>Halogen bond interaction design</a></li>
 </ul>
 <h2>How to use the python script</h2>
-<p>1. load the script into flare python gui: Flare | Python | Python Interpretor |Load ..</p>
-<p>2. pick a atom, single click button Run</p>
+<p>1. load the script into flare python gui: Flare | Python | Python Interpretor |Load .. (Figure 1. step 1, 2 and 3)</p>
+<p>2. pick a atom, single click button Run (Figure 1. step 4 and 5)</p>
 <img src="https://github.com/gkxiao/waters/blob/main/demo.png">
 <p style="text-align:center;">Figure 1. Five steps to use the script</p>
 <h2>Reference</h2>
