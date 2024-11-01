@@ -23,13 +23,13 @@ protein_index = [0]
 # The index is starting from 0
 surface_index = [0]
 
-
-prot = p.proteins[protein_index]
-grid = prot.surfaces[surface_index].grid()
-
 ###############################################
 # Don't modify the codes starting from here ! #
 ###############################################
+# set protein & its deltaG grid
+prot = p.proteins[protein_index]
+grid = prot.surfaces[surface_index].grid()
+
 # Get the picked atom
 picked_atom = flare.main_window().picked_atoms[0]
 picked_coord = picked_atom.pos
