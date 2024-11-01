@@ -14,12 +14,10 @@ import numpy as np
 # Access the current Flare project
 p = flare.main_window().project
 
-# set protein index
-# Get the protein from the protein list
+# set protein index to get the protein from the protein list
 # The index starts from 0
 protein_index = [0]
-# set surface index
-# Get the deltaG grid from protein surface list 
+# set surface index to get the deltaG grid from protein surface list 
 # The index is starting from 0
 surface_index = [0]
 
