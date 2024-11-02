@@ -11,19 +11,36 @@
 from cresset import flare
 import numpy as np
 
+"""Show the GIST solvation free energy
+Usage:
+Please select the protein interested and the pick the atom interested.
+The script will show the deltaG at the coordinate of atom picked by using the selected protein's GIST grid.
+"""
+#
+# Don't modify the codes starting from here !
+#
 # Access the current Flare project
 p = flare.main_window().project
 
-# set protein index to get the protein from the protein list
-# The index starts from 0
-protein_index = [0]
-# set surface index to get the deltaG grid from protein surface list 
-# The index is starting from 0
-surface_index = [0]
+# use the selected protein and its deltaG surface 
+prot = flare.main_window().selected_proteins[0]
+# Get the associated grid, which is a GIST deltaG
+# find the surface including dG，detlaG or ΔG
+def starts_with_dG_prefix(s):
+    # List of prefixes to check
+    prefixes = ["dG", "deltaG", "dg", "ΔG", "ΔG+", "ΔG-"]
+    
+    # Check if the string starts with any of the prefixes
+    for prefix in prefixes:
+        if s.startswith(prefix):
+            return True
+surface_idx = 0
+for idx in range(len(prot.surfaces)):
+    if starts_with_dG_prefix(prot.surfaces[idx].name):
+        surface_idx = surface_idx
+        break
+grid = prot.surfaces[surface_idx].grid()
 
-###############################################
-# Don't modify the codes starting from here ! #
-###############################################
 # set protein & its deltaG grid
 prot = p.proteins[protein_index]
 grid = prot.surfaces[surface_index].grid()
