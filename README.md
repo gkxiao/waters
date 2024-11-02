@@ -12,6 +12,7 @@
     <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#xbond" target='_blank'>Halogen bond interaction design</a></li>
 </ul>
 <h2>How to use the python script</h2>
+<script type='text/javascript' src='https://blog.molcalx.com.cn/mathjax/latest.js?config=TeX-MML-AM_CHTML'></script>
 $$
 &Delta;G = vol \times \sum_{v_{i} \in V}G_{GIST}(v_{i})\cdots(5)
 $$
