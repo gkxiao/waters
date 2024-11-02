@@ -12,6 +12,9 @@
     <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#xbond" target='_blank'>Halogen bond interaction design</a></li>
 </ul>
 <h2>How to use the python script</h2>
+$$
+&Delta;G = vol \times \sum_{v_{i} \in V}G_{GIST}(v_{i})\cdots(5)
+$$
 <p>1. load the script into flare python gui: Flare | Python | Python Interpretor |Load .. (Figure 1. step 1, 2 and 3)</p>
 <p>2. select the protein intereted (Figure 1. step 4）.</p>
 <p>3. pick a atom, single click button Run (Figure 1. step 5 and 6).</p>
