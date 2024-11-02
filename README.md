@@ -13,8 +13,8 @@
 </ul>
 <h2>How to use the python script</h2>
 <p>1. load the script into flare python gui: Flare | Python | Python Interpretor |Load .. (Figure 1. step 1, 2 and 3)</p>
-<p>2. select the protein intereted.</p>
-<p>3. pick a atom, single click button Run (Figure 1. step 4 and 5)</p>
+<p>2. select the protein intereted (Figure 1. step 4）.</p>
+<p>3. pick a atom, single click button Run (Figure 1. step 5 and 6).</p>
 <img src="https://github.com/gkxiao/waters/blob/main/demo.png">
 <p style="text-align:center;">Figure 1. Five steps to use the script</p>
 <h2>Reference</h2>
