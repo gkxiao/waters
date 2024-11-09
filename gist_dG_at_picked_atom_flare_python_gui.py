@@ -34,14 +34,16 @@ def starts_with_dG_prefix(s):
     for prefix in prefixes:
         if s.startswith(prefix):
             return True
-surface_idx = 0
+
+surface_idx = None
 for idx in range(len(prot.surfaces)):
     if starts_with_dG_prefix(prot.surfaces[idx].name):
         surface_idx = idx
         break
-    else:
-        print("Cannot find the GIST ΔG grid for this protein")
-        
+if surface_idx is None:
+    print("Cannot find the GIST ΔG grid for this protein")
+    exit()
+      
 grid = prot.surfaces[surface_idx].grid()
 
 # set protein & its deltaG grid
