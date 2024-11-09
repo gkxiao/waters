@@ -37,7 +37,7 @@ def starts_with_dG_prefix(s):
 surface_idx = 0
 for idx in range(len(prot.surfaces)):
     if starts_with_dG_prefix(prot.surfaces[idx].name):
-        surface_idx = surface_idx
+        surface_idx = idx
         break
     else:
         print("Cannot find the GIST ΔG grid for this protein")
