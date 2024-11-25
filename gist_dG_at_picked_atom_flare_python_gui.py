@@ -46,9 +46,8 @@ if surface_idx is None:
       
 grid = prot.surfaces[surface_idx].grid()
 
-# set protein & its deltaG grid
-prot = p.proteins[protein_index]
-grid = prot.surfaces[surface_index].grid()
+# set protein‘s deltaG grid
+grid = prot.surfaces[surface_idx].grid()
 
 # Get the picked atom
 picked_atom = flare.main_window().picked_atoms[0]
