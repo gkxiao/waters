@@ -43,8 +43,6 @@ for idx in range(len(prot.surfaces)):
 if surface_idx is None:
     print("Cannot find the GIST ΔG grid for this protein")
     exit()
-      
-grid = prot.surfaces[surface_idx].grid()
 
 # set protein‘s deltaG grid
 grid = prot.surfaces[surface_idx].grid()
