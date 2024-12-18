@@ -12,7 +12,7 @@
     <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#xbond" target='_blank'>Halogen bond interaction design</a></li>
 </ul>
 <h2>Tutorial: show the hydration free energy</h2>
-<p>1. Load the script gist_dG_at_picked_atom_flare_python_gui.py from flare python gui: Flare | Python | Python Interpretor |Load .. (Figure 1. step 1, 2 and 3)</p>
+<p>1. Load the script from flare python gui: Flare | Python | Python Interpretor |Load .. (Figure 1. step 1, 2 and 3) gist_dG_at_picked_atom_flare_python_gui.py</p>
 <p>2. select the protein intereted (Figure 1. step 4）.</p>
 <p>3. pick a atom, single click button Run (Figure 1. step 5 and 6).</p>
 <img src="http://blog.molcalx.com.cn/wp-content/uploads/2024/10/show-gist-deltaG-tutorial.png">
