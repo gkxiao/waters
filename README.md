@@ -18,6 +18,7 @@
 <img src="http://blog.molcalx.com.cn/wp-content/uploads/2024/10/show-gist-deltaG-tutorial.png">
 <p style="text-align:center;">Figure 1. Five steps to use the script</p>
 <h2>Tutorial: Calculate the &Delta;G<sub>watdisp</sub> of the ligand</h2>
+<p>Enter the following command in the shell:</p>
 <pre line="1" lang="shell">
 gist_dG_watdisp.py -g 5c29_apo_gist_dG.dx -i 9s-9z.sdf -o 9s-9z_out.sdf
 </pre>
