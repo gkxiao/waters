@@ -15,7 +15,7 @@
 <p>1. Load the script from flare python gui: Flare | Python | Python Interpretor |Load .. (Figure 1. step 1, 2 and 3) gist_dG_at_picked_atom_flare_python_gui.py</p>
 <p>2. select the protein intereted (Figure 1. step 4）.</p>
 <p>3. pick a atom, single click button Run (Figure 1. step 5 and 6).</p>
-<img src="http://blog.molcalx.com.cn/wp-content/uploads/2024/10/show-gist-deltaG-tutorial.png">
+<img src="https://github.com/gkxiao/waters/blob/main/show-gist-deltaG-tutorial.png">
 <p style="text-align:center;">Figure 1. Five steps to use the script</p>
 <h2>Tutorial: Calculate the &Delta;G<sub>watdisp</sub> of the ligand</h2>
 <img src="http://blog.molcalx.com.cn/wp-content/uploads/2024/10/pde10a-9s-9z.png">
