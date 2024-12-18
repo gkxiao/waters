@@ -129,8 +129,8 @@ for mol in suppl:
     # A voxel is considered to be displaced if it is contained within the van der Waals radius of an atom during
     # the docking calculation. We sum up the energies of those voxels (eq S8) and multiply the sum by the volume
     # of the voxel (volume = 0.125 Å3) to get a value in kcal/mol.
-    # dG_Watdisp = sum(truncated_value) * volume   
- 
+    # dG_Watdisp = sum(truncated_value) * volume * alpha   
+    # where, alpha = -1, volume = 0.125
     # calculate the dG_Watdisp
     gist_dg_watdisp = sum(value for _, _, value in analysis_results) * (-0.125)
 
