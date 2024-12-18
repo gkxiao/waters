@@ -42,7 +42,7 @@ suppl = Chem.SDMolSupplier(ifile,removeHs=False)
 # radii = [ptable.GetRvdw(atom.GetAtomicNum()) for atom in ligand.GetAtoms()]
 
 
-# This function will collect the grid point (voxel) displace by the heavy atom:
+# This function will collect the grid point (voxel) displaced by the ligand's heavy atoms:
 # 1) If the distance between voxel and atom is less than atom's radius, we define that the voxel will displaced by heavy atom.
 # 2) The Van der Waals radii (angstrom) can be available from RDKit's periodic table. 
 #    Here is an example:
