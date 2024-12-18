@@ -37,6 +37,8 @@ gist_dG_watdisp.py -g 5c29_apo_gist_dG.dx -i 9s-9z.sdf -o 9s-9z_out.sdf
 
 </pre>
 <p>Thus, the ΔΔG<sub>watdisp</sub> between 9s and 9z is 3.38 kcal/mol, which is very close to the difference in their binding free energies (ΔΔG = 3.44 kcal/mol).</p>
+<h2>Install requirement</h2>
+<p>rdkit, numpy and GridDataFormats are required.</p>
 <h2>Reference</h2>
 <ol>
   <li>Yoshida, S.; Uehara, S.; Kondo, N.; Takahashi, Y.; Yamamoto, S.; Kameda, A.; Kawagoe, S.; Inoue, N.; Yamada, M.; Yoshimura, N.; et al. Peptide-to-Small Molecule: A Pharmacophore-Guided Small Molecule Lead Generation Strategy from High-Affinity Macrocyclic Peptides. 2022. https://doi.org/10.1021/acs.jmedchem.2c00919.</li>
