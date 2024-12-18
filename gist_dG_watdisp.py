@@ -90,7 +90,7 @@ def analyze_grid_near_atoms(ligand, grid, radii):
         # Uehara(2016): https://doi.org/10.3390/molecules21111604
         # 
         mask = (distances <= radius) & ((all_grid_values <= -0.5) | (all_grid_values >= 0.5))
-        # Don't use the lower threshold to remove 
+        # Don't use the lower threshold to remove voxels without significant contribution.
         # mask = (distances <= radius)
 
         filtered_coords = all_grid_coords[mask]
