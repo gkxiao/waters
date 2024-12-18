@@ -17,11 +17,11 @@
 <p>3. pick a atom, single click button Run (Figure 1. step 5 and 6).</p>
 <img src="http://blog.molcalx.com.cn/wp-content/uploads/2024/10/show-gist-deltaG-tutorial.png">
 <p style="text-align:center;">Figure 1. Five steps to use the script</p>
-<h2>Tutorial: Calculate the displacement free energy of the ligand</h2>
+<h2>Tutorial: Calculate the &Delta;G<sub>watdisp</sub> of the ligand</h2>
 <pre line="1" lang="shell">
 gist_dG_watdisp.py -g 5c29_apo_gist_dG.dx -i 9s-9z.sdf -o 9s-9z_out.sdf
 </pre>
-<p>You can find the GIST-dG-Watdisp tag in the output SDF file, which represents the calculated displacement free energy. It looks something like this:</p>
+<p>You can find the GIST-dG-Watdisp tag in the output SDF file, which represents the calculated displacement free energy. You can find the calculation results for 9s as follows:</p>
 <pre line="1" lang="shell">
 &gt;  &lt;GIST-dG-Watdisp&gt;  (1) 
 -41.599
