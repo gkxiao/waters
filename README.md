@@ -22,7 +22,7 @@
 <pre line="1" lang="shell">
 gist_dG_watdisp.py -g 5c29_apo_gist_dG.dx -i 9s-9z.sdf -o 9s-9z_out.sdf
 </pre>
-<p>You can find the GIST-dG-Watdisp tag in the output SDF file, which represents the calculated displacement free energy. You can find the calculation results for 9s as follows:</p>
+<p>You can find the GIST-dG-Watdisp tag in the output SDF file, which represents the calculated &Delta;G<sub>watdisp</sub>. You can find the calculation results for 9s as follows:</p>
 <pre line="1" lang="shell">
 &gt;  &lt;GIST-dG-Watdisp&gt;  (1) 
 -41.599
