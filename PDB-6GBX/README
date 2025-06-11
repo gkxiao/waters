@@ -1,2 +1,9 @@
-6GBX-Chain-A-holo-Gist.flr
-6GBX-Chain-B-holo-Gist.flr
+# QPCTL Inhibitor Binding Mode Analysis (PDB 6GBX)
+
+## Overview
+
+This document presents the results of holo-GIST calculations performed on Chain A and Chain B of the PDB 6GBX, which represents the co-crystal of QPCT and SEN177.  These calculations were conducted to analyze the binding mode of the inhibitor.
+
+## Reference
+
+[QPCTL Inhibitor Binding Mode Analysis](http://blog.molcalx.com.cn/2024/02/04/qpctl-inhibitor.html#holo-gist)
