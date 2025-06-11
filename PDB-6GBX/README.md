@@ -1,3 +1,4 @@
+<img https://github.com/gkxiao/waters/blob/main/PDB-6GBX/Chain-A-and-B-holo-GIST-Results.png>
 # QPCTL Inhibitor Binding Mode Analysis (PDB 6GBX)
 
 ## Overview
