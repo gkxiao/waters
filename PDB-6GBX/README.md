@@ -8,6 +8,7 @@ In the structure of PDB 6GBX, the ligand SEN177 exhibits two distinct binding mo
 "Fascinating analysis—great example of how integrating computational tools Flare GIST with SAR data can clarify ambiguous binding modes. The discrepancy between Chain A and Chain B really highlights the importance of solvent energetics in guiding ligand interpretation. Thanks for sharing this detailed case study!" — Dr. Awantika Shrivastava, commenting on my LinkedIn post.
 
 ## Files
+The FLR file can be accessed using Cresset’s Flare software, with a free visualizer license being available (https://www.cresset-group.com/software/licensing-flare/).
 ```
 .
 ├── 6GBX-Chain-A-holo-GIST.flr
