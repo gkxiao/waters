@@ -10,7 +10,7 @@
     <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#pde10a" target='_blank'>PDE10A inhibitor: as a solvation scoring function</a></li>
     <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#ph4" target='_blank'>Identify the key pharmacohore feature</a></li>
     <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#xbond" target='_blank'>Halogen bond interaction design</a></li>
-    <li><a href="http://blog.molcalx.com.cn/2024/02/04/qpctl-inhibitor.html#holo-gist" target='_blank'>Integrating Flare GIST with SAR data to clarify ambiguous binding modes.</a></li>
+    <li><a href="http://blog.molcalx.com.cn/2024/02/04/qpctl-inhibitor.html#holo-gist" target='_blank'>Integrating Flare GIST with SAR data to clarify ambiguous binding modes</a></li>
 </ul>
 <h2>Tutorial: show the hydration free energy</h2>
 <p>1. Load the script from flare python gui: Flare | Python | Python Interpretor |Load .. (Figure 1. step 1, 2 and 3) gist_dG_at_picked_atom_flare_python_gui.py</p>
