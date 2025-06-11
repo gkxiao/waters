@@ -11,6 +11,7 @@ In the structure of PDB 6GBX, the ligand SEN177 exhibits two distinct binding mo
 The FLR file can be accessed using Cresset’s Flare software, with a free visualizer license being available (https://www.cresset-group.com/software/licensing-flare/).
 ```
 .
+├── 6GBX-Chain-A-apo-GIST.flr
 ├── 6GBX-Chain-A-holo-GIST.flr
 ├── 6GBX-Chain-B-holo-GIST.flr
 ```
