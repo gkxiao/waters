@@ -12,4 +12,4 @@ This document presents the results of holo-GIST calculations performed on Chain 
 ```
 ## Reference
 
-[QPCTL Inhibitor Binding Mode Analysis](http://blog.molcalx.com.cn/2024/02/04/qpctl-inhibitor.html)
+[QPCTL Inhibitor Binding Mode Analysis](http://blog.molcalx.com.cn/2024/02/04/qpctl-inhibitor.html#holo-gist)
