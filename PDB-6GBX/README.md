@@ -1,4 +1,4 @@
-# QPCTL Inhibitor Binding Mode Analysis (PDB 6GBX)
+# Case Study: Integrating Flare GIST with SAR data to clarify ambiguous binding mode
 <img src="https://github.com/gkxiao/waters/blob/main/PDB-6GBX/Chain-A-and-B-holo-GIST-Results.png">
 
 ## Overview
