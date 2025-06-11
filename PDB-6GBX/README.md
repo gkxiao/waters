@@ -3,7 +3,7 @@
 
 ## Overview
 
-This document presents the results of holo-GIST calculations performed on Chain A and Chain B of the PDB 6GBX, which represents the co-crystal of QPCTL and SEN177.  These calculations were conducted to analyze the binding mode of the inhibitor.
+In the structure of PDB 6GBX, the ligand SEN177 exhibits two distinct binding modes: Chain A and Chain B. Analysis of the binding pocket using Flare GIST (https://lnkd.in/gMa2_xyZ) revealed that the binding mode in Chain A does not align with the SAR reported by Yu et al. (2023, https://lnkd.in/g4Qp4jTU ), whereas the binding mode in Chain B does. In this case, GIST analysis proved instrumental in identifying the correct ligand binding mode. For a detailed walkthrough, click "Read More" here: https://lnkd.in/gdmARbAF
 
 ## Files
 ```
