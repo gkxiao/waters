@@ -17,3 +17,6 @@ Key Takeaway for Medicinal Chemists:​​
 - ✅ ​​Unhappy waters​​ = Design opportunities → Target for displacement
 
 See how ​Flare GIST (https://lnkd.in/g-BGZFjp) transforms water from mystery to actionable insight.
+
+## Data availability
+The FLR file can be accessed using Cresset’s Flare software, with a free visualizer license being available: https://www.cresset-group.com/software/licensing-flare .
