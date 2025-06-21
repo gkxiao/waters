@@ -2,7 +2,7 @@
 <img src="https://github.com/gkxiao/waters/blob/main/a-tale-of-two-waters/the-tale-of-two-waters-blog-post-cover.png">
 
 ## Overview
-​<p>Cracking the Water Code in Drug Design: When Happy vs. Unhappy Waters Dictate Activity 💧⚗️​</p>
+​Cracking the Water Code in Drug Design: When Happy vs. Unhappy Waters Dictate Activity 💧⚗️​
 
 Trujillo et al.'s study "A Tale of Two Waters"(https://lnkd.in/gPnbfRYv) revealed paradoxical water-mediated SAR in hH-PGDS inhibitors:
 - ➡️ Replacing HOH320 caused 630× activity loss
