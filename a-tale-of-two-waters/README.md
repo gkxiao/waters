@@ -1,5 +1,5 @@
 # Case Study: a tale of two waters
-<img src="https://github.com/gkxiao/waters/blob/main/a-tale-of-two-waters/PDB-4EE0-Apo-GIST-results-rev1.png">
+<img src="https://github.com/gkxiao/waters/blob/main/a-tale-of-two-waters/the-tale-of-two-waters-blog-post-cover.png">
 
 ## Overview
 ​<p>Cracking the Water Code in Drug Design: When Happy vs. Unhappy Waters Dictate Activity 💧⚗️​</p>
