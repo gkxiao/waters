@@ -5,10 +5,8 @@
 ​<p>Cracking the Water Code in Drug Design: When Happy vs. Unhappy Waters Dictate Activity 💧⚗️​</p>
 
 <p>Trujillo et al.'s study "A Tale of Two Waters"(https://lnkd.in/gPnbfRYv) revealed paradoxical water-mediated SAR in hH-PGDS inhibitors:</p>
-<ul>
-   <li>➡️ Replacing HOH320 caused 630× activity loss</li> 
-   <li>➡️ Displacing HOH305 showed only 3.5× potency reduction</li>
-</ul>
+- ➡️ Replacing HOH320 caused 630× activity loss</li>
+- ➡️ Displacing HOH305 showed only 3.5× potency reduction</li>
 <p>Why such dramatic differences? Flare's GIST (https://lnkd.in/gAUbF4_a) Analysis Provides Answers:</p>
 - 🔍 HOH320 is a "happy" water (ΔG = -2.37 kcal/mol, apo-GIST)
 - 🔍 HOH305 is a "unhappy" water (ΔG = 1.81 kcal/mol, apo-GIST)
