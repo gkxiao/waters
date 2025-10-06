@@ -105,8 +105,8 @@ def analyze_grid_near_atoms(ligand, grid, radii):
         # Add unique voxels to the set to remove the duplicated voxel so that each voxel only contibute once.
         # Return a tuple which contains coordinates, value and truncated value
         for coord, value in zip(filtered_coords, filtered_values):
-            # truncate the value to +3 kcal/(mol*A^3)
-            truncated_value = min(value, 3.0)
+            # Values are truncated to ±3 kcal/mol/A^3 if their absolute value exceeds 3 kcal/mol/A^3.
+            truncated_value = max(-3.0, min(value, 3.0))
             # append the coordinates, value and truncated value into set
             displaced_voxels.add((tuple(np.round(coord, 5)), value, truncated_value))
     
