@@ -6,3 +6,8 @@ In this case study, GIST results were utilized to identify the binding modes of 
 Naohide Morita, Noritaka Furuya, Takaki Momose, Atsushi Kondo, Takehiro Ishikawa, Isao Wanajo, Michiyo Nishikawa, Motoyasu Ozawa, Masaoki Kajino, Hiroshi Harada, Akane Matsuzawa, Akihiro Tsuchioka, Hidemasa Hikawa, and Isao Azumaya
 Journal of Medicinal Chemistry 2025 68 (14), 14919-14944
 DOI: 10.1021/acs.jmedchem.5c01127
+
+### 2. Comprehensive 3D-RISM Analysis of the Hydration of Small Molecule Binding Sites in Ligand-Free Protein Structures.
+Takashi Yoshidome, Mitsunori Ikeguchi, Masateru Ohta
+Journal Computational Chemistry. 2020, 41 (28), 2406–2419
+DOI: 10.1002/jcc.26406.
