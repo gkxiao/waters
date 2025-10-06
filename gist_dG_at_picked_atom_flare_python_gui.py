@@ -95,8 +95,8 @@ results = []
 
 # Iterate over the filtered coordinates and values
 for coord, value in zip(filtered_coords, filtered_values):
-    # Truncate the value if it is greater than 3.0
-    truncated_value = min(value, 3.0)
+    # Values are truncated to ±3 kcal/mol/A^3 if their absolute value exceeds 3 kcal/mol/A^3.
+    truncated_value = max(-3.0, min(value, 3.0))
     results.append((tuple(np.round(coord, 5)), value, truncated_value))
 
 # Print information about the picked atom and the input coordinate
