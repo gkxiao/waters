@@ -8,7 +8,7 @@ According to the findings of Takashi Yoshidome et al.:
 ###  What is the efficacy of this approach?
 Based on Takashi Yoshidome et al.'s conclusions regarding the relationship between correct binding poses and hydration density, the Flare Docking results revealed binding modes for Fragment 1 and 2 that are consistent with biophysical experiments. Furthermore, these findings visually indicate a fusion strategy for Fragment 1 and 2.
 
-Please request a free [Flare Viewer](https://cresset-group.com/software/download-flare-visualizer/) from Cresset to view the GIST results in the [attachment](https://github.com/gkxiao/waters/tree/main/PDB-3N7S/apo-gist.flr).
+Please request a free [Flare Visualizer](https://cresset-group.com/software/download-flare-visualizer/) from Cresset to view the GIST results in the [attachment](https://github.com/gkxiao/waters/tree/main/PDB-3N7S/apo-gist.flr).
 ## REFERENCE
 ### 1. Fragment-Based Discovery of an Oral Calcitonin Gene-Related Peptide Receptor Antagonist for the Treatment of Migraine. 
 Naohide Morita, Noritaka Furuya, Takaki Momose, Atsushi Kondo, Takehiro Ishikawa, Isao Wanajo, Michiyo Nishikawa, Motoyasu Ozawa, Masaoki Kajino, Hiroshi Harada, Akane Matsuzawa, Akihiro Tsuchioka, Hidemasa Hikawa, and Isao Azumaya
