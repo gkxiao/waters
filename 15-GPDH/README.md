@@ -32,9 +32,12 @@ $$
 \end{align}
 $$
 
+$$
+\Delta \Delta G_{\text{watdisp}} = -21.846 - (-18.144) = -3.70 \text{kcal/mol} \cdots(3)
+$$
 
 $$
-\Delta \Delta G_{\text{bind}}^{\text{Exp}} = -3.62 \ \text{kcal/mol} \cdots(3)
+\Delta \Delta G_{\text{bind}}^{\text{Exp}} = -3.62 \ \text{kcal/mol} \cdots(4)
 $$
 
 ## Gnina score of Compound 4 and 38
