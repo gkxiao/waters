@@ -21,16 +21,18 @@ $$
 \Delta G_{\text{bind}}^{\text{docking-GIST-corr}} = \Delta G_{\text{bind}}^{\text{docking}} + \Delta G_{\text{watdisp}} \cdots(1)
 $$
 
+
 $$
 \begin{align}
-\Delta \Delta G_{\text{bind}}^{\text{docking-GIST-corr}} &= \Delta \Delta G_{\text{bind}}^{\text{docking}} + \Delta \Delta G_{\text{watdisp}} \notag \\
-&= -0.7 + (-3.70) \notag \\
-&= -4.40 \ \text{kcal/mol} \tag{2}
+\Delta \Delta G_{\text{bind}}^{\text{docking-GIST-corr}} &= \Delta \Delta G_{\text{bind}}^{\text{docking}} + \Delta \Delta G_{\text{watdisp}} \\
+&= -0.7 + (-3.70) \\
+&= -4.40 \ \text{kcal/mol} \cdots(2)
 \end{align}
 $$
 
+
 $$
-\Delta \Delta G_{\text{bind}}^{\text{Exp}} = -3.62 \ \text{kcal/mol} \tag{3}
+\Delta \Delta G_{\text{bind}}^{\text{Exp}} = -3.62 \ \text{kcal/mol} \cdots(3)
 $$
 
 ## Gnina score of Compound 4 and 38
