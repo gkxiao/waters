@@ -17,7 +17,10 @@
 | Exp ΔG (kcal/mol)       | -10.34    | -13.96    |
 
 
-要不要我帮你整理一份**该表格数据的关键对比总结**？
+### Calculations
+$$
+\Delta G_{\text{bind}}^{\text{docking-GIST-corr}} = \Delta G_{\text{bind}}^{\text{docking}} + \Delta G_{\text{watdisp}}
+$$
 
 ## Gnina score of Compound 4 and 38
 
