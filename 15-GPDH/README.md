@@ -2,6 +2,13 @@
 
 ![Compound 4 and 38](https://github.com/gkxiao/waters/blob/main/15-GPDH/Compound-4-38-and-their-activity.png)
 
+A great example of rational design: In the discovery of 15-PGDH inhibitors (Dodda, L. S., et al. J. Med. Chem. https://lnkd.in/gPgeMVni), displacing high-energy waters in the binding site drove a >400-fold boost in binding affinity from compound 4 to 38.
+This case can be effectively revisited with Flare GIST (https://lnkd.in/gAUbF4_a), a robust water analysis method. Here’s how:
+✅ GIST-calculated hydration sites show strong agreement with experimental crystallographic waters.
+✅ The GIST desolvation free energy can be used to correct molecular docking scores.
+While the docking tool GNINA predicted the affinity of compound 4 fairly well, it failed to rank the much stronger binder 38 above 4.
+By adding the GIST desolvation term to the docking score, the relative binding free energies for both compounds were accurately reproduced.
+This highlights how integrating physics-based solvation analysis into Structure-based drug design can improve prioritization and help capture subtle but critical binding effects.
 
 ## Correct the docking score using ΔG<sub>watdisp</sub> calculated by Flare GIST
 
