@@ -58,6 +58,16 @@ Term values, before weighting:
 ```
 
 ## Computation of ΔG<sub>watdisp</sub> for Compounds 4 and 38
+- 4
+```
+gist_dg_watdisplace.py -g dg.dx -i 4.sdf -o 4_watdisp.sdf
+```
+
+- 38
+```
+gist_dg_watdisplace.py -g dg.dx -i 38.sdf -o 38_watdisp.sdf
+```
+
 
 
 
