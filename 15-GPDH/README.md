@@ -13,7 +13,7 @@
 | Affinity (kcal/mol)     | -9.53     | -10.23    |
 | CNNaffinity             | 6.77      | 7.39      |
 | ΔG<sub>watdisp</sub> (kcal/mol) | -18.144 | -21.846 |
-| Affinity-Corr (kcal/mol)| -9.53     | -13.93    |
+| Affinity-Corr (kcal/mol)| -9.53     | <em>-13.93</em>    |
 | Exp ΔG (kcal/mol)       | -10.34    | -13.96    |
 
 ### Calculation Formulas
