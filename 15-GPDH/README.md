@@ -34,7 +34,7 @@ You can request a free Flare Visualizer (https://cresset-group.com/software/down
 | Affinity-Corr (kcal/mol)| -9.53     | <strong>-13.93</strong>    |
 | Exp ΔG (kcal/mol)       | -10.34    | -13.96    |
 
-The binding free energy corrected by &Delta;G<sub>watdisp</sub> (Affinity-Corr) is very close to the experimental values (Exp ΔG)! The calculation formula is as follows:
+From the table, we can see that while GNINA does correctly capture that Compound 38 exhibits stronger hydrogen bond interactions (as reflected in the larger non_dir_h_bond term) and more robust hydrophobic interactions (via the larger hydrophobic term) compared to Compound 4 in its scoring breakdown, it fails to translate these differences into distinct binding affinity predictions: the predicted ΔΔG between Compound 4 (-9.53 kcal/mol) and 38 (-10.23 kcal/mol) is a mere 0.7 kcal/mol, which is far from matching the experimental ΔΔG of 3.62 kcal/mol. However, the binding free energy corrected by GIST’s ΔG<sub>watdisp</sub> (Affinity-Corr) aligns very closely with the experimental values! The calculation formula is as follows:
 
 ### Calculation Formulas
 $$
