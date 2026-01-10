@@ -128,6 +128,6 @@ gist_dG_watdisplace.py -g dg.dx -i 4.sdf -o 4_watdisp.sdf
 gist_dG_watdisplace.py -g dg.dx -i 38.sdf -o 38_watdisp.sdf
 ```
 
-
+Where, **dg.dx"" can be exported from the Flare Project file **15-PGDH-apo-gist.flr**.
 
 
