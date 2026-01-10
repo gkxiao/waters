@@ -34,7 +34,7 @@ You can request a free Flare Visualizer (https://cresset-group.com/software/down
 | Affinity-Corr (kcal/mol)| -9.53     | <strong>-13.93</strong>    |
 | Exp ΔG (kcal/mol)       | -10.34    | -13.96    |
 
-The binding free energy corrected by &Delta;G<sub>watdisp</sub> (Affinity-Corr) is very close to the experimental values! The calculation formula is as follows:
+The binding free energy corrected by &Delta;G<sub>watdisp</sub> (Affinity-Corr) is very close to the experimental values (Exp ΔG)! The calculation formula is as follows:
 
 ### Calculation Formulas
 $$
