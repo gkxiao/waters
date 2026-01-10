@@ -33,7 +33,7 @@ $$
 $$
 
 $$
-\Delta \Delta G_{\text{watdisp}} = -21.846 - (-18.144) = -3.70 \text{kcal/mol} \cdots(3)
+\Delta \Delta G_{\text{watdisp}} = -21.846 - (-18.144) = -3.70 \ \text{kcal/mol} \cdots(3)
 $$
 
 $$
