@@ -1,5 +1,5 @@
 ## Summary
-
+![Enhancing Docking Score with GIST (GIST修正对接打分的示意图)](https://github.com/gkxiao/waters/blob/main/15-GPDH/enchancing-docking-score-with-GIST.png?raw=true =400x)
 ## Correct the docking score using ΔG<sub>watdisp</sub> calculated by Flare GIST
 
 
