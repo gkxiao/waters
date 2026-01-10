@@ -1,3 +1,24 @@
+## Summary
+
+## Correct the docking score using ΔG<sub>watdisp</sub> calculated by Flare GIST
+
+
+| Metric                  | 4         | 38        |
+|-------------------------|-----------|-----------|
+| gauss_1                 | 122.46680 | 149.03520 |
+| gauss_2                 | 1420.47168| 1643.15222|
+| repulsion               | 5.23956   | 6.98573   |
+| hydrophobic             | 94.15118  | 101.49037 |
+| non_dir_h_bond          | 1.99749   | 2.97978   |
+| Affinity (kcal/mol)     | -9.53     | -10.23    |
+| CNNaffinity             | 6.77      | 7.39      |
+| ΔG<sub>watdisp</sub> (kcal/mol) | -18.144 | -21.846 |
+| Affinity-Corr (kcal/mol)| -9.53     | -13.93    |
+| Exp ΔG (kcal/mol)       | -10.34    | -13.96    |
+
+
+要不要我帮你整理一份**该表格数据的关键对比总结**？
+
 ## Gnina score of Compound 4 and 38
 
 - Compound 4
