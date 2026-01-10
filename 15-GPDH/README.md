@@ -16,10 +16,21 @@
 | Affinity-Corr (kcal/mol)| -9.53     | -13.93    |
 | Exp ΔG (kcal/mol)       | -10.34    | -13.96    |
 
-
-### Calculations
+### Calculation Formulas
 $$
-\Delta G_{\text{bind}}^{\text{docking-GIST-corr}} = \Delta G_{\text{bind}}^{\text{docking}} + \Delta G_{\text{watdisp}}
+\Delta G_{\text{bind}}^{\text{docking-GIST-corr}} = \Delta G_{\text{bind}}^{\text{docking}} + \Delta G_{\text{watdisp}} \tag{1}
+$$
+
+$$
+\begin{align}
+\Delta \Delta G_{\text{bind}}^{\text{docking-GIST-corr}} &= \Delta \Delta G_{\text{bind}}^{\text{docking}} + \Delta \Delta G_{\text{watdisp}} \notag \\
+&= -0.7 + (-3.70) \notag \\
+&= -4.40 \ \text{kcal/mol} \tag{2}
+\end{align}
+$$
+
+$$
+\Delta \Delta G_{\text{bind}}^{\text{Exp}} = -3.62 \ \text{kcal/mol} \tag{3}
 $$
 
 ## Gnina score of Compound 4 and 38
