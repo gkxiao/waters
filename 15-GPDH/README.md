@@ -18,9 +18,9 @@
 
 ### Calculation Formulas
 $$
-\aligned
+\begin{aligned}
 \Delta G_{\text{bind}}^{\text{docking-GIST-corr}} = \Delta G_{\text{bind}}^{\text{docking}} + \Delta G_{\text{watdisp}} \cdots(1)
-\endaligned
+\end{aligned}
 $$
 
 
