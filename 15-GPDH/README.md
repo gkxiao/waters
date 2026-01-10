@@ -56,3 +56,8 @@ Intramolecular energy: -0.51773
 Term values, before weighting:
 ## 38 149.03520 1643.15222 6.98573 101.49037 2.97978 0.00000
 ```
+
+## Computation of ΔG<sub>watdisp</sub> for Compounds 4 and 38
+
+
+
