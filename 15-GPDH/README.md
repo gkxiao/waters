@@ -1,4 +1,5 @@
-## Gnian score only
+## Gnina score of Compound 4 and 38
+
 ```
 gnina -r 9pfl_dry.pdb -l 4.sdf -o 4_gnina_score.sdf --score_only
               _
