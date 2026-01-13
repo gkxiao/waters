@@ -122,14 +122,15 @@ Term values, before weighting:
 ## Computation of ΔG<sub>watdisp</sub> for Compounds 4 and 38
 - 4
 ```
-gist_dG_watdisplace.py -g dg.dx -i 4.sdf -o 4_watdisp.sdf
+gist_dG_watdisplace.py -g dG.dx -i 4.sdf -o 4_watdisp.sdf
 ```
 
 - 38
 ```
-gist_dG_watdisplace.py -g dg.dx -i 38.sdf -o 38_watdisp.sdf
+gist_dG_watdisplace.py -g dG.dx -i 38.sdf -o 38_watdisp.sdf
 ```
 
-Where, ***dg.dx*** can be exported from the Flare Project file **15-PGDH-apo-gist.flr**.
+Where, ***dG.dx*** can be exported from the Flare Project file **15-PGDH-apo-gist.flr**.
+
 
 
