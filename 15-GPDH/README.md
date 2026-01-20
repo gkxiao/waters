@@ -15,6 +15,7 @@ While the docking tool GNINA predicted the affinity of compound 4 fairly well, i
 By adding the GIST desolvation term to the docking score, the relative binding free energies for both compounds were accurately reproduced.
 This highlights how integrating physics-based solvation analysis into Structure-based drug design can improve prioritization and help capture subtle but critical binding effects.
 
+Read the full case study📚, please refer to the blog post: https://lnkd.in/g_zp2ew8
 ### Visualization of Results
 You can request a free Flare Visualizer (https://cresset-group.com/software/download-flare-visualizer/) to visualize and analyze my calculation results (15-PGDH-apo-gist.flr), or apply for a free Flare demo license (https://cresset-group.com/about/contact-us/) to reproduce my calculations.
 
