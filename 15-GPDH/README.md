@@ -45,9 +45,8 @@ As shown in the figure, apo-GIST analysis identifies two high-energy hydration s
 | Affinity-Corr (kcal/mol)| <strong>-9.53</strong>     | <strong>-13.93</strong>    |
 | Exp ΔG (kcal/mol)       | -10.34    | -13.96    |
 
-From the table, we can see that while GNINA does correctly capture that Compound 38 exhibits stronger hydrogen bond interactions (as reflected in the larger non_dir_h_bond term) and more robust hydrophobic interactions (via the larger hydrophobic term) compared to Compound 4 in its scoring breakdown, it fails to translate these differences into distinct binding affinity predictions: the predicted ΔΔG between Compound 4 (-9.53 kcal/mol) and 38 (-10.23 kcal/mol) is a mere 0.7 kcal/mol, which is far from matching the experimental ΔΔG of 3.62 kcal/mol. However, the binding free energy corrected by GIST’s ΔG<sub>watdisp</sub> (Affinity-Corr) aligns very closely with the experimental values! The calculation formula is as follows:
+As shown in the table, GNINA’s scoring breakdown indicates that Compound 38 forms stronger non-directional hydrogen-bond interactions and more favorable hydrophobic contacts than Compound 4, as reflected by the larger non_dir_h_bond and hydrophobic terms. However, these improvements are only marginally reflected in the predicted binding affinities, yielding a ΔΔG of approximately 0.7 kcal/mol between Compounds 4 and 38, substantially smaller than the experimental value of 3.62 kcal/mol. This discrepancy suggests that interaction-based scoring alone is insufficient to capture the dominant contribution in this optimization step. In contrast, when the GIST-derived water displacement free energy (ΔG_{\text{watdisp}}) is incorporated as an explicit correction term, the resulting corrected affinities (Affinity-Corr) show quantitative agreement with the experimental binding free energies. The calculation formula is as follows:
 
-### Calculation Formulas
 $$
 \begin{aligned}
 \Delta G_{\text{bind}}^{\text{docking-GIST-corr}} = \Delta G_{\text{bind}}^{\text{docking}} + \Delta G_{\text{watdisp}} \cdots(1)
