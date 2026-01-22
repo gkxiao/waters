@@ -1,4 +1,4 @@
-## Why Docking Missed a 400× Binder — and How GIST Helped
+## 🔬Why Docking Missed a 400× Binder — and How GIST Helped
 
 ![Compound 4 and 38](https://github.com/gkxiao/waters/blob/main/15-GPDH/Compound-4-38-and-their-activity.png)
 
