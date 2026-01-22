@@ -2,15 +2,23 @@
 
 ![Compound 4 and 38](https://github.com/gkxiao/waters/blob/main/15-GPDH/Compound-4-38-and-their-activity.png)
 
-A great example of rational design: In the discovery of 15-PGDH inhibitors (Dodda, L. S., et al. J. Med. Chem. https://lnkd.in/gPgeMVni), displacing high-energy waters in the binding site drove a >400-fold boost in binding affinity from compound 4 to 38.
+In the discovery of 15-PGDH inhibitors, a classic medicinal chemistry insight paid off: displacing high-energy waters led to a >400-fold affinity gain, from compound 4 to 38 (Dodda, L. S., et al. J. Med. Chem. https://lnkd.in/gPgeMVni).
 
-This case can be effectively revisited with Flare GIST (https://lnkd.in/gAUbF4_a), a robust water analysis method. Here’s how:
+Yet, standard molecular docking struggled here.
+While GNINA predicted the affinity of compound 4 reasonably well, it failed to rank the much stronger binder 38 above it.
 
-✅ GIST-calculated hydration sites show strong agreement with experimental crystallographic waters.
+This makes the system a great test case for explicit solvation analysis.
 
-✅ The GIST desolvation free energy can be used to correct molecular docking scores.
+Revisiting the problem with Flare GIST shows why:
 
-While the docking tool GNINA predicted the affinity of compound 4 fairly well, it failed to rank the much stronger binder 38 above 4.
+✅ GIST hydration sites align well with crystallographic waters
+
+✅ The GIST-derived desolvation free energy captures the energetic benefit of displacing high-energy waters
+
+✅ Adding this term as a correction layer to docking scores reproduces the correct relative binding free energies
+
+Importantly, GIST is not a replacement for docking or FEP.
+It acts as a physics-based solvation layer, making otherwise invisible water-driven effects explicit — particularly in cases where water displacement dominates the binding gain.
 
 By adding the GIST desolvation term to the docking score, the relative binding free energies for both compounds were accurately reproduced.
 This highlights how integrating physics-based solvation analysis into Structure-based drug design can improve prioritization and help capture subtle but critical binding effects.
