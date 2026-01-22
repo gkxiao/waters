@@ -12,7 +12,7 @@
     <li><a href="http://blog.molcalx.com.cn/2024/10/04/gist-based-hydration-site-analysis.html#xbond" target='_blank'>Halogen bond interaction design</a></li>
     <li><a href="http://blog.molcalx.com.cn/2021/07/25/a-tale-of-two-waters.html" target='_blank'>A tale of two waters</a></li>
     <li><a href="http://blog.molcalx.com.cn/2024/02/04/qpctl-inhibitor.html#holo-gist" target='_blank'>Integrating Flare GIST with SAR data to clarify ambiguous binding modes</a></li>
-    <li><a href="http://blog.molcalx.com.cn/2026/01/16/gist-based-water-analysis-for-lead-optimization-the-15-pgdh-inhibitor-case-study.html" target='_blank'>Identifying Key High-Energy Waters and Reproducing the Fragment-Based Discovery of MRTX1719 via SPARK Water Replacement Experiments</li>
+    <li><a href="http://blog.molcalx.com.cn/2024/11/26/fragment-based-discovery-of-mrtx1719.html" target='_blank'>Identifying Key High-Energy Waters and Reproducing the Fragment-Based Discovery of MRTX1719 via SPARK Water Replacement Experiments</li>
     <li><a href="http://blog.molcalx.com.cn/2026/01/16/gist-based-water-analysis-for-lead-optimization-the-15-pgdh-inhibitor-case-study.html" target='_blank'>Why Docking Missed a 400× Binder — Revealing Hidden Water Contributions with GIST</a></li>
 </ul>
 <h2>Tutorial: show the hydration free energy</h2>
