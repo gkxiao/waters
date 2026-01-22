@@ -47,10 +47,7 @@ As shown in the figure, apo-GIST analysis identifies two high-energy hydration s
 
 As shown in the table, GNINA’s scoring terms indicate that Compound 38 forms stronger non-directional hydrogen-bond interactions and more favorable hydrophobic contacts than Compound 4. However, these improvements translate into only a small difference in predicted binding affinity (ΔΔG ≈ 0.7 kcal/mol), far below the experimental value of 3.62 kcal/mol.
 
-This discrepancy suggests that interaction-based scoring alone is insufficient to capture the dominant energetic contribution in this optimization step. In contrast, when the GIST-derived water displacement free energy (ΔG_watdisp) is incorporated as an explicit correction term, the corrected binding free energies show quantitative agreement with experiment.
-
-
-As shown in the table, GNINA’s scoring breakdown indicates that Compound 38 forms stronger non-directional hydrogen-bond interactions and more favorable hydrophobic contacts than Compound 4, as reflected by the larger non_dir_h_bond and hydrophobic terms. However, these improvements are only marginally reflected in the predicted binding affinities, yielding a ΔΔG of approximately 0.7 kcal/mol between Compounds 4 and 38, substantially smaller than the experimental value of 3.62 kcal/mol. This discrepancy suggests that interaction-based scoring alone is insufficient to capture the dominant contribution in this optimization step. In contrast, when the GIST-derived water displacement free energy ΔG<sub>watdisp</sub> is incorporated as an explicit correction term, the resulting corrected affinities (Affinity-Corr) show quantitative agreement with the experimental binding free energies. The calculation formula is as follows:
+This discrepancy suggests that interaction-based scoring alone is insufficient to capture the dominant energetic contribution in this optimization step. In contrast, when the GIST-derived water displacement free energy (ΔG<sub>watdisp</sub>) is incorporated as an explicit correction term, the corrected binding free energies (Affinity-Corr) show quantitative agreement with experiment. The calculation formula is as follows:
 
 $$
 \begin{aligned}
@@ -66,6 +63,8 @@ $$
 &= -4.40 \ \text{kcal/mol} \cdots(2)
 \end{align}
 $$
+
+This demonstrates that the missing contribution between Compounds 4 and 38 arises predominantly from water displacement rather than direct ligand–protein interactions.
 
 $$
 \Delta \Delta G_{\text{watdisp}} = -21.846 - (-18.144) = -3.70 \ \text{kcal/mol} \cdots(3)
