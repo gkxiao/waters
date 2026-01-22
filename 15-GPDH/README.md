@@ -27,7 +27,7 @@ You can request a free Flare Visualizer (https://cresset-group.com/software/down
 ## Apo-GIST Analysis Identifies Opportunities for Lead Compound Optimization
 ![Unhappy water in the pocket](http://blog.molcalx.com.cn/wp-content/uploads/2026/01/Compound-4-38-water-displacement-and-binding-mode.png)
 
-As shown in the figure, the apo-GIST calculation reveals two high-energy hydration sites (#4 and #19) in the binding pocket, which coincide with the bound waters HOH483 and HOH485, respectively. This suggests that displacing these high-energy waters could lead to a gain in binding free energy.
+As shown in the figure, apo-GIST analysis identifies two high-energy hydration sites (#4 and #19) within the binding pocket, which spatially coincide with the crystallographic waters HOH483 and HOH485, respectively. The positive hydration free energies of these sites indicate thermodynamically unfavorable water molecules, suggesting that their displacement by ligand atoms is expected to provide a favorable contribution to binding free energy.
 
 ## Correct the docking score using ΔG<sub>watdisp</sub> calculated by Flare GIST
 
