@@ -20,9 +20,6 @@ Revisiting the problem with Flare GIST shows why:
 Importantly, GIST is not a replacement for docking or FEP.
 It acts as a physics-based solvation layer, making otherwise invisible water-driven effects explicit — particularly in cases where water displacement dominates the binding gain.
 
-By adding the GIST desolvation term to the docking score, the relative binding free energies for both compounds were accurately reproduced.
-This highlights how integrating physics-based solvation analysis into Structure-based drug design can improve prioritization and help capture subtle but critical binding effects.
-
 Read the full case study📚, please refer to the blog post: https://lnkd.in/g_zp2ew8
 ### Visualization of Results
 You can request a free Flare Visualizer (https://cresset-group.com/software/download-flare-visualizer/) to visualize and analyze my calculation results (15-PGDH-apo-gist.flr), or apply for a free Flare demo license (https://cresset-group.com/about/contact-us/) to reproduce my calculations.
