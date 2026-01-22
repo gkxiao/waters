@@ -20,7 +20,7 @@ Revisiting the problem with Flare GIST shows why:
 Importantly, GIST is not a replacement for docking or FEP.
 It acts as a physics-based solvation layer, making otherwise invisible water-driven effects explicit — particularly in cases where water displacement dominates the binding gain.
 
-Read the full case study📚, please refer to the blog post: https://lnkd.in/g_zp2ew8
+Read the full case study📚, please refer to the blog post: http://blog.molcalx.com.cn/2026/01/16/gist-based-water-analysis-for-lead-optimization-the-15-pgdh-inhibitor-case-study.html
 ### Visualization of Results
 You can request a free Flare Visualizer (https://cresset-group.com/software/download-flare-visualizer/) to visualize and analyze my calculation results (15-PGDH-apo-gist.flr), or apply for a free Flare demo license (https://cresset-group.com/about/contact-us/) to reproduce my calculations.
 
