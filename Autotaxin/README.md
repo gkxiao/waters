@@ -1,1 +1,1 @@
-<img src="http://blog.molcalx.com.cn/wp-content/uploads/2024/10/gist-diagram.png">
+<img src="https://github.com/gkxiao/waters/blob/main/Autotaxin/ATX-inhibitors-and-apo-GIST-hydration-sites.png">
