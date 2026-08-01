@@ -13,6 +13,7 @@ Watermap is an expensive commercial module in Schrödinger for predicting hydrat
 - PyMOL (for visualization)
 - Schrödinger Maestro (optional, for Ligand Designer)
 
+The `csv2watermap_mae.py` script was written by Trae (DeepSeek-V4-flash).
 ## Usage
 
 Run the following command in your terminal:
