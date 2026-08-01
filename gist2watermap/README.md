@@ -2,6 +2,9 @@
 
 This tutorial describes how to use `csv2watermap_mae.py` to convert GIST calculation results into a Schrödinger Watermap-compatible `.mae` file, then visualize it in PyMOL, and optionally use it in Maestro / Ligand Designer.
 
+![4zlz_apo-GIST](https://raw.githubusercontent.com/gkxiao/waters/main/gist2watermap/4zlz_apo-GIST.png)
+
+
 ## Introduction
 
 Watermap is an expensive commercial module in Schrödinger for predicting hydration sites and thermodynamic properties. GIST (Grid Inhomogeneous Solvation Theory) is a highly cost-effective alternative, but its raw output cannot be directly used in Maestro as Watermap results. This script converts GIST output (CSV format) into a `.mae` file that mimics the Watermap output, enabling seamless integration into a Maestro-based workflow.
