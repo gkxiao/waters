@@ -1,0 +1,1 @@
+A lightweight toolkit that converts GIST results into Watermap-compatible .mae files, enabling direct visualization in Maestro and PyMOL, as well as water replacement/displacement studies in Schrödinger Ligand Designer — at a fraction of the cost.
